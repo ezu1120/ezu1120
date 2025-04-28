@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Ezedin Lalega!
+I'm a passionate Software Engineering student based in Ethiopia. I love building impactful digital solutions and specialize in web development using React.js, Node.js, Express.js, MySQL, and more.
 
-<!--
-**ezu1120/ezu1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do:
 
-Here are some ideas to get you started:
+Develop dynamic and responsive full-stack web applications
+Continuously learn and contribute to open-source projects
+🔧 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
+Backend: Node.js, Express.js
+Database: MySQL
+Other Tools: Git/GitHub,
+📫 Let's Connect!
+
+Feel free to explore my repositories and collaborate on exciting projects!
+
+Email: ezulale1120@email.com
