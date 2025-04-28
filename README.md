@@ -1,10 +1,11 @@
 👋 Hi, I'm Ezedin Lalega!
-I'm a passionate Software Engineering student based in Ethiopia. I love building impactful digital solutions and specialize in web development using React.js, Node.js, Express.js, MySQL, and more.
+I'm a Junior MERN Stack Developer based in Ethiopia. Passionate about building scalable web applications, I specialize in React.js, Node.js, Express.js, and MongoDB.
 
 🚀 What I Do:
+Build dynamic, scalable, and responsive full-stack web applications.
+Continuously improve my skills by contributing to open-source projects.
+Explore new technologies and stay up to date with the latest trends in the software industry.
 
-Develop dynamic and responsive full-stack web applications
-Continuously learn and contribute to open-source projects
 🔧 Tech Stack:
 
 Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
