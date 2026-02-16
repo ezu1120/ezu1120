@@ -16,4 +16,4 @@ Other Tools: Git/GitHub,
 
 Feel free to explore my repositories and collaborate on exciting projects!
 
-Email: ezulale1120@gmail.com
+Email: laleezu1220@gmail.com
