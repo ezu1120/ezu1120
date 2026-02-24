@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Scalable Full-Stack Web Applications (MERN, Laravel + React, API-driven systems, SaaS platforms).**
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with scaling full-stack applications to production level using modern DevOps and system design practices.**
+- 🤝 I’m looking for help with scaling full-stack applications to production level using modern DevOps and system design practices.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ezedin-lalega.vercel.app/](https://portfolio-ezedin-lalega.vercel.app/)
 
