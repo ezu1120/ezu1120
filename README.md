@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezedin Lalega</h1>
-<h3 align="center">A passionate full-stack developer from Ethiopia</h3>
+<h3 align="center">A self-taught full-stack developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Import & Export Management Website](https://github.com/ezu1120/Import-Export-Website)
 
