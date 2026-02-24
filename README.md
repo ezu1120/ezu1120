@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ezedin Lalega</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Import & Export Management Website – A modern full-stack platform for managing international trade operations, product listings, client communication, and logistics tracking.](https://github.com/ezu1120/Import-Export-Website)
+- 🔭 I’m currently working on [Import & Export Management Website](https://github.com/ezu1120/Import-Export-Website)
+
+- 🌱 I’m currently learning **System Design, Microservices Architecture, Advanced Next.js, API Security, Cloud Deployment, and Database Optimization.**
 
 - 👯 I’m looking to collaborate on **Scalable Full-Stack Web Applications (MERN, Laravel + React, API-driven systems, SaaS platforms).**
+
+- 🤝 I’m looking for help with **🤝 I’m looking for help with scaling full-stack applications to production level using modern DevOps and system design practices.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ezedin-lalega.vercel.app/](https://portfolio-ezedin-lalega.vercel.app/)
 
@@ -11,11 +15,12 @@
 
 - 📫 How to reach me **lalegaezedin@gmail.com**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAG-14U_APQ/GfxeplhwxhrDI9NbkPPt0A/view?utm_content=DAG-14U_APQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1caa5dd9c3](https://www.canva.com/design/DAG-14U_APQ/GfxeplhwxhrDI9NbkPPt0A/view?utm_content=DAG-14U_APQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1caa5dd9c3)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ezedin-lalega-109498323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ezedin-lalega-109498323" height="30" width="40" /></a>
 <a href="https://instagram.com/ezu1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ezu1220" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
