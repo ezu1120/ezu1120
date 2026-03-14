@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **lalegaezedin@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAG-14U_APQ/GfxeplhwxhrDI9NbkPPt0A/view?utm_content=DAG-14U_APQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1caa5dd9c3](https://www.canva.com/design/DAG-14U_APQ/GfxeplhwxhrDI9NbkPPt0A/view?utm_content=DAG-14U_APQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1caa5dd9c3)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ezedin-lalega-109498323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ezedin-lalega-109498323" height="30" width="40" /></a>
